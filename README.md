@@ -25,4 +25,21 @@
 2. 李四
 
 [baidu](http://baidu.com)
-![image](https://www.baidu.com/img/bd logo1.png)
+![image](https://www.baidu.com/img/bd_logo1.png)
+
+```js
+function show(){
+}
+```
+
+```html
+<p>
+<a href="https://baidu.com">链接</a>
+</p>
+```
+内联的代码`alert('helloworld')`
+
+header 1 | header 2
+--- | --- | ---
+row 1 col 1 |row 1 col 2 | 3
+row 2 col 1 |row 2 col 2 | 3
